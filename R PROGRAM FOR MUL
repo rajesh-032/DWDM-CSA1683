@@ -1,0 +1,7 @@
+ a<-as.integer(readline(prompt ="enter the first number:"))
+enter the first number:4
+> b<-as.integer(readline(prompt ="enter the second number:"))
+enter the second number:3
+> mul=a*b
+> print(mul)
+[1] 12

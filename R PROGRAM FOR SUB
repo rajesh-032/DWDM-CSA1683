@@ -1,0 +1,7 @@
+a<-as.integer(readline(prompt ="enter first number:"))
+enter first number:28
+> b<-as.integer(readline(prompt ="enter second number:"))
+enter second number:3
+> difference=a-b
+> print(difference)
+[1] 25

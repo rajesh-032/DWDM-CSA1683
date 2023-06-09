@@ -1,0 +1,7 @@
+ a<-as.integer(readline(prompt ="enter the first number:"))
+enter the first number:2
+> b<-as.integer(readline(prompt ="enter the second number:"))
+enter the second number:4
+> sum=a+b
+> print(sum)
+[1] 6
